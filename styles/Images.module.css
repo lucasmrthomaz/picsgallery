@@ -1,0 +1,13 @@
+
+.homegrid {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  flex-direction: row;
+  margin: 10px;
+}
+
+.homegrid img {
+margin:20px;
+}
