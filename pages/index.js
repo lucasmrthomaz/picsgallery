@@ -6,7 +6,7 @@ export default function Home({imagens}) {
     <div>
       <main className={styles.main}>
       <h1 className={styles.title}> Imagens para você </h1>
-      <h2>Relaxa, são livre de Copyright!</h2>
+      <h2>Relaxa, são livres de Copyright!</h2>
       <p>Made with love by Lucas Thomaz - 2021</p>
     </main>
     <hr/>
